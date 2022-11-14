@@ -1,0 +1,62 @@
+.img {
+    width: auto;
+    max-height: 10rem;
+    display: flex;
+    border-radius: .5rem;
+    border: 2px solid black;
+    margin-bottom: .5rem;
+    padding-right: 1rem;
+}
+
+.img img {
+    margin: .5rem;
+    min-width: 6.25rem;
+    height: 6.25rem;
+    object-fit: cover;
+    border-radius: 1rem;
+    border: 2px solid black;
+
+}
+
+p {
+    margin-top: 1.5rem;
+    margin-left: .5rem;
+    margin-bottom: .1rem;
+}
+
+.menor {
+    margin-top: 1.9rem;
+    font-size: .6rem;
+    margin-left: .15rem;
+
+}
+
+.painel div {
+    display: flex;
+}
+
+.painel {
+    display: flex;
+    flex-direction: column;
+}
+
+.tipo {
+
+    margin: 0px;
+    margin-left: .5rem;
+}
+
+.estrela {
+    margin-left: .4rem;
+}
+
+.grande {
+    margin-bottom: .5rem;
+    min-height: 11.5rem;
+    
+}
+
+.grande img {
+    min-width: 9rem;
+    height: 10rem;
+}

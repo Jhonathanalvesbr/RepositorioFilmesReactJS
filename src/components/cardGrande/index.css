@@ -1,0 +1,12 @@
+.texto {
+    margin: 0;
+    font-size: .8rem;
+    margin-top: .3rem;
+    margin-left: .5rem;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    max-height: 5.5rem;
+    padding-right: .5rem;
+}

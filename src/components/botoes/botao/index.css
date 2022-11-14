@@ -1,0 +1,28 @@
+.botao {
+    background-color: #262626;
+    color: white;
+    border: none;
+    min-width: 10rem;
+    min-height: 2rem;
+    margin-left: 1rem;
+    border-radius: .5rem;
+    padding: .5rem .5rem .5rem;
+    font-size: 0.8rem;
+    margin-bottom: .5rem;
+    white-space: pre;
+}
+
+.primeiro {
+    background-color: #ce1330;
+}
+
+.botao:hover {
+    filter: brightness(1.6);
+}
+
+.terceiro {
+    margin: 0px;
+    margin-left: .5rem;
+    max-width: fit-content;
+    background-color: green;
+}

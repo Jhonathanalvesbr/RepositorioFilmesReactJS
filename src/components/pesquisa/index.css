@@ -1,0 +1,11 @@
+.input {
+    display: flex;
+    justify-content: center;
+    margin-bottom: .5rem;
+}
+
+input {
+    box-sizing: border-box;
+    border: 2px solid black;
+    border-radius: .3rem;
+}
