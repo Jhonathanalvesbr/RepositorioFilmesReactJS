@@ -1,3 +1,29 @@
-.botoes{
-    display: flex;
+.carousel .control-dots {
+    color: black;
+    display: none;
+
+}
+
+.carousel .control-dots .dot {
+    background: black;
+}
+
+.carousel .carousel-status {
+    display: none;
+}
+
+.carousel.carousel-slider .control-arrow {
+    color: black;
+    background-color: black;
+}
+
+.carousel .thumbs-wrapper {
+   display: none;
+}
+
+.btnCarrosel button{
+    margin-top: 1rem;
+}
+.btnCarrosel{
+    margin-bottom: 1rem;
 }

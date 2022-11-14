@@ -17,3 +17,14 @@ body {
     flex-direction: column;
     justify-content: space-around;
 }
+
+h1{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+
+.input{
+    margin-bottom: 1.5rem;
+}

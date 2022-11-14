@@ -48,6 +48,7 @@ function App() {
 
   return (
     <div className="App">
+      <h1>Busca de Filmes</h1>
       <header className="App-header">
         {<> <Pesquisa setPesquisa={setPesquisa} input={input} setId={setId} setGenero={setGenero} />
           <CardGrande filme={id} />
